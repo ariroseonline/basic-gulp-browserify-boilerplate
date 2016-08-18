@@ -1,0 +1,12 @@
+archive
+node_modules
+
+.idea/workspace.xml
+
+.idea/modules.xml
+
+.idea/misc.xml
+
+.idea/fundraising-ideas.iml
+
+.editorconfig
